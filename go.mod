@@ -3,7 +3,7 @@ module github.com/ayberktandogan/melody
 go 1.21.5
 
 require (
-	github.com/alecthomas/kong v0.8.1
+	github.com/alecthomas/kong v0.9.0
 	github.com/oklog/ulid/v2 v2.1.0
 	github.com/posener/complete v1.2.3
 	github.com/willabides/kongplete v0.4.0
